@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SeleniumTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C88FC2E3-9AE0-4B9C-AD23-F42EA34758B3}|SeleniumTests\\SeleniumTests.csproj|d:\\seleniumtests\\seleniumtests\\seleniumadvancedtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88FC2E3-9AE0-4B9C-AD23-F42EA34758B3}|SeleniumTests\\SeleniumTests.csproj|solutionrelative:seleniumtests\\seleniumadvancedtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88FC2E3-9AE0-4B9C-AD23-F42EA34758B3}|SeleniumTests\\SeleniumTests.csproj|d:\\seleniumtests\\seleniumtests\\baseuitest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88FC2E3-9AE0-4B9C-AD23-F42EA34758B3}|SeleniumTests\\SeleniumTests.csproj|solutionrelative:seleniumtests\\baseuitest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88FC2E3-9AE0-4B9C-AD23-F42EA34758B3}|SeleniumTests\\SeleniumTests.csproj|d:\\seleniumtests\\seleniumtests\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88FC2E3-9AE0-4B9C-AD23-F42EA34758B3}|SeleniumTests\\SeleniumTests.csproj|solutionrelative:seleniumtests\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88FC2E3-9AE0-4B9C-AD23-F42EA34758B3}|SeleniumTests\\SeleniumTests.csproj|d:\\seleniumtests\\seleniumtests\\seleniumtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88FC2E3-9AE0-4B9C-AD23-F42EA34758B3}|SeleniumTests\\SeleniumTests.csproj|solutionrelative:seleniumtests\\seleniumtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseUiTest.cs",
+              "DocumentMoniker": "D:\\SeleniumTests\\SeleniumTests\\BaseUiTest.cs",
+              "RelativeDocumentMoniker": "SeleniumTests\\BaseUiTest.cs",
+              "ToolTip": "D:\\SeleniumTests\\SeleniumTests\\BaseUiTest.cs",
+              "RelativeToolTip": "SeleniumTests\\BaseUiTest.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:35:35.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "D:\\SeleniumTests\\SeleniumTests\\LoginPage.cs",
+              "RelativeDocumentMoniker": "SeleniumTests\\LoginPage.cs",
+              "ToolTip": "D:\\SeleniumTests\\SeleniumTests\\LoginPage.cs",
+              "RelativeToolTip": "SeleniumTests\\LoginPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:26:34.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeleniumAdvancedTests.cs",
+              "DocumentMoniker": "D:\\SeleniumTests\\SeleniumTests\\SeleniumAdvancedTests.cs",
+              "RelativeDocumentMoniker": "SeleniumTests\\SeleniumAdvancedTests.cs",
+              "ToolTip": "D:\\SeleniumTests\\SeleniumTests\\SeleniumAdvancedTests.cs",
+              "RelativeToolTip": "SeleniumTests\\SeleniumAdvancedTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:41:03.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeleniumTests.cs",
+              "DocumentMoniker": "D:\\SeleniumTests\\SeleniumTests\\SeleniumTests.cs",
+              "RelativeDocumentMoniker": "SeleniumTests\\SeleniumTests.cs",
+              "ToolTip": "D:\\SeleniumTests\\SeleniumTests\\SeleniumTests.cs",
+              "RelativeToolTip": "SeleniumTests\\SeleniumTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T16:23:29.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
